@@ -1,0 +1,5 @@
+test: eng
+difficulty:
+  easy: easy
+  medium: medium
+  hard: hard
